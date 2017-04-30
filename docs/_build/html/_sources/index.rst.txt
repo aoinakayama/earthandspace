@@ -95,6 +95,15 @@
 1. 枠と地球を組み合わせる
 
 
+完成
+^^^^
+
+.. figure:: _static/working/complete.jpeg
+   :width: 60%
+
+
+
+
 
 Indices and tables
 ==================
