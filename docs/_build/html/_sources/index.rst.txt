@@ -65,35 +65,36 @@
 
   [設計図](https://github.com/aoinakayama/earthandspace/blob/master/drawing/body.pdf)を印刷します。
 
-1. 設計図を厚紙に貼る
 
-  設計図をのりで厚紙に貼ります。
 
 1. 設計図を厚紙に貼る
 
   設計図をのりで厚紙に貼ります。
+
+  .. figure:: _static/working/nori.jpeg
+     :width: 60%
 
 1. 設計図を切り取る
 
   設計図を線に沿って切っていきます。
 
-1. 切り取ったものを組み立てます。
+  .. figure:: _static/working/kiritori.jpeg
+     :width: 60%
 
 1. 切り取ったものを組み立てます。
 
   のりしろをセロハンテープで止めます。
 
-1. 切り取ったものを組み立てます。
-
-   のりしろをセロハンテープで止めます。
-
-1. 竹串をさす
+  .. figure:: _static/working/kumitate.jpeg
+     :width: 60%
 
 
 組み立て
 ^^^^^^^^
 
 1. 枠と地球を組み合わせる
+
+
 
 Indices and tables
 ==================
