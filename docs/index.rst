@@ -25,23 +25,38 @@
 地球
 ^^^^
 
+
 1. 地球の画像を印刷する
 
-[地球の画像](https://github.com/aoinakayama/earthandspace/blob/master/img/beaglegraph.jpg)を印刷します。
+  [地球の画像](_static/space/beaglegraph.jpg)を印刷します。
+
+  .. figure:: _static/space/beaglegraph.jpg
+     :width: 60%
 
 1. 地球の画像の余白をハサミで切り取る
 
-[地球の画像](https://github.com/aoinakayama/earthandspace/blob/master/img/beaglegraph.jpg)をハサミで切り取ります。
+  [地球の画像](https://github.com/aoinakayama/earthandspace/blob/master/img/beaglegraph.jpg)をハサミで切り取ります。
 
-![地球の画像](https://github.com/aoinakayama/earthandspace/blob/master/img/beaglegraph.jpg "地球の画像")
+  .. figure:: _static/working/IMG_0775.JPG
+     :width: 60%
 
 1. 紙ねんどを丸める
 
-丸めます。
+  .. figure:: _static/working/sphere.jpeg
+     :width: 60%
+
 
 1. 地球画像をはる
 
+  .. figure:: _static/working/IMG_0792.JPG
+     :width: 60%
+
+
 1. 中心に穴を開ける
+
+  .. figure:: _static/working/takegushi.jpeg
+     :width: 60%
+
 
 わく
 ^^^^
